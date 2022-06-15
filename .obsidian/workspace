@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "d80a3ad7f4f7c749",
+    "type": "split",
+    "children": [
+      {
+        "id": "3643c232eedfe379",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Russia Ukraine Crisis.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d28bc83ee9775351",
+    "type": "split",
+    "children": [
+      {
+        "id": "5606284c2959edf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fecfb36fe77c896",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b067bdd7f772600",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267
+  },
+  "right": {
+    "id": "837dd0b4c9254c00",
+    "type": "split",
+    "children": [
+      {
+        "id": "3260f934dcd9b62e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c68dbf8579c197c8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Russia Ukraine Crisis.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3643c232eedfe379",
+  "lastOpenFiles": [
+    "Russia Ukraine Crisis.md",
+    "SAMARTH Promotional Drive.md",
+    "THE MOST IMPORTANT FILE.org",
+    "River Disputes in India.txt",
+    "Mock Analysis.txt",
+    "Milan Excercise.md",
+    "Indian Cabinet.md",
+    "ICJ Russia Ukraine.md",
+    "Global Innovation Index.md",
+    "Economic Survey.md"
+  ]
+}

@@ -1,0 +1,27 @@
+# Cabinet
+- NAMO = PM, Atomic, Space
+- Raj Nath Singh = Defence
+- Amit Shah = Home 
+- Nitin Gadkari = Road
+- Nirmala Sitharaman = Finance and Corporate Affairs
+- Narendra Singh Tomar = Agriculture
+- Jaishankar = MEA
+- Arjun Munda = Tribal
+- Smriti Irani = Women and Child Developement
+- Piyush Goyal = Commerce, Consumer Affairs, Textiles
+- Dharmendra Pradhan = Education, Skill, Entreprenureship
+- Prahlad Joshi = Coal, Mines Parliamentry Affairs
+- Narayan Rane = MSME
+- Sarbananda Sonowal = AYUSH
+- Mukhtar Abbas Naqwi = Minority Affairs
+- Virendra Kumar = Social Justice
+- Giriraj Singh = Rural Development 
+- Jyotiraditya = Civil Aviation
+- Ashwini Vaishnaw = Railway, Communication, IT
+- Gajendra Kumar Shekawat = Jal Shakti
+- Kiren Rijjiju = Law and Justice
+- Raj Kumar Singh = Power, new and renewable energy
+- Hardeep Singh = Petroleum and Natural Gas
+- Mansukh Mandavia = Health
+- Bhupendra Yadav = Environment Forest and Climate Change
+- Anurag Thakur = Information and Broadcasting
