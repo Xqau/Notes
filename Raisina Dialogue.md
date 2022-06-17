@@ -1,0 +1,16 @@
+# Raisina Dialogue, 2022
+- This is the 7th edition of the conference
+-   The theme for the Conference was **‘Terranova- Impassioned, Impatient, Imperiled’.**
+-   It had **six thematic pillars:**
+    -   **Rethinking Democracy: trade, technology and ideology**
+    -   **End of Multilateralism: a networked global order**
+    -   **Water Caucuses: turbulent tides in the Indo-Pacific**
+    -   **Communities Inc: first responders to health, development, and planet**
+    -   **Achieving Green Transitions: common imperative, diverging realities**
+    -   **Samson vs Goliath: the persistent and relentless technology wars**
+-   The **Raisina Young Fellows programme** was also conducted along with the Conference.
+-   The Raisina Dialogue is **India’s premier foreign policy conference on geopolitics and geoeconomics** committed to addressing the most challenging issues facing the global community.
+    -   The first session was held in 2016.
+-   It is **organized on the lines of the Shangri La Dialogue** which takes place annually in Singapore and is co-hosted by the **Ministry of External Affairs (MEA)** and the **Observer Research Foundation (ORF).**
+-   The name Raisina Hills comes from the place where India’s seat of power resides. It is an area in Delhi where the Rashtrapati Bhavan, the Prime Minister’s Office (PMO) and other important government offices are situated.
+- The special guest was Ursula Von Der Leyen the Head of the EU

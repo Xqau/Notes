@@ -1,5 +1,10 @@
 {
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-lillimon-topaz",
   "shimmering-focus@@shapes": "round-shapes",
-  "shimmering-focus@@preset-color-scheme": "classic-colors"
+  "shimmering-focus@@preset-color-scheme": "classic-colors",
+  "Yin and Yang@@l-accent": "#5D42E0",
+  "Yin and Yang@@d-blockquote": "#8C70E0",
+  "Yin and Yang@@l-blockquote": "#7A66FF",
+  "Yin and Yang@@strong-color@@light": "#22097E",
+  "Yin and Yang@@text-highlight-rgb@@light": "#F9E770"
 }

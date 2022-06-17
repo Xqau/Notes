@@ -1,8 +1,7 @@
 [
-  "obsidian-org-mode",
   "sliding-panes-obsidian",
-  "txt-as-md-obsidian",
   "obsidian-day-planner",
   "obsidian-outliner",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-style-settings"
 ]
