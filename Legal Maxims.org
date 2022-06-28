@@ -1,0 +1,20 @@
+#+title: Legal Maxims
+
+* Legal Maxims
+- Written in Latin
+
+| Maxim                                 | Meaning                                                                                            |
+|---------------------------------------+----------------------------------------------------------------------------------------------------|
+| actus non facit rea nisi mens sit rea | There can be no crime without a guilty mind                                                        |
+| ad valorem                            | According to Value                                                                                 |
+| amicus curiae                         | Friend of the Court                                                                                |
+| audi alterem partum                   | Giving opportuanity to hear the other side                                                         |
+| ex parte                              | When the judgement is given without hearing the other side                                         |
+| assentio mentium                      | Mutual consent and meeting of minds                                                                |
+| consensus ad idem                     | Consensus on the same things and in the same context                                               |
+| bona vacantia                         | A property with no owner                                                                           |
+| caveat emptor                         | Let the buyer be aware (let the buyer be informed and be aware of the consequenses of his actions) |
+| caveat venditor                       | Let the seller be aware                                                                            |
+| corpus delicto                        | Body of Crime (Proof that a certain crime has taken place)                                         |
+| damnum sine injuria                   | Damage without injury                                                                              |
+
